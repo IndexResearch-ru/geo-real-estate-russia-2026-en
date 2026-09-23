@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-<title id="title">Схема работы GEO with closed IT infrastructure</title><desc id="desc">Внешний GEO-лид проводит исследование, готовит стратегию и технические задания, внутренняя команда застройщика внедряет изменения, после чего выполняется повторный замер.</desc>
+<title id="title">GEO workflow with closed IT infrastructure</title><desc id="desc">The external GEO lead conducts research, prepares strategy and specifications; the developer's internal team implements changes, followed by repeat measurement.</desc>
 <rect width="1200" height="520" rx="24" fill="#f8fafc"/>
 <text x="60" y="64" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">How the no-access IT scenario works</text>
 <g font-family="Arial, sans-serif" text-anchor="middle">
